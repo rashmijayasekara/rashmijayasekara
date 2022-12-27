@@ -14,7 +14,7 @@ I'm Rashmi Jayasekara,a software developer who's keen on learning new tools and 
 
 <hr>
 <h3>Wanna connect with me ?</h3>
-<a href="www.linkedin.com/in/rashmi-ja">LinkedIn</a><br>
+<a href="www.linkedin.com/in/rashmi-jayasekara">LinkedIn</a><br>
 <a href="mailto:jayasekara7899@gmail.com">Email</a>
 
 
