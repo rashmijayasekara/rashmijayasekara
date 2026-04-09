@@ -1,31 +1,59 @@
-Hey there,
-<h3>Wanna know about me ?</h3>
-I'm Rashmi Jayasekara,a software developer who's keen on learning new tools and technologies. I'm excited on problem solving and always trying my best to come up with the optimized solutions.Moreover, I'd love to acquire hands-on skills on the latest technologies and to improve the current skills. 
+  <h1 align="center">Rashmi Jayasekara</h1>
 
-<hr>
-<h3>Experimented on</h3>
-<ul>
-   <li>Java</li>
-   <li>Html</li>
-   <li>CSS</li>
-   <li>Java Script</li>
-   <li>TypeScipt</li>
-</ul>
+  <p align="center">
+    Full-stack engineer who likes systems that scale and problems that don't
+  have obvious answers.
+    <br/>
+    Based in Sri Lanka 🇱🇰 · 3.5+ years in production
+  </p>
 
-<hr>
-<h3>Wanna connect with me ?</h3>
-Email : jayasekara7899@gmail.com
+  ---
 
+  ### Stack
 
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,java,kotlin,spring
+  ,docker,prisma&perrow=8" />
+  </p>
 
+  Backend-heavy. I design APIs, structure monorepos, own auth flows, and keep
+  things running in production.
+  That means juggling multiple services, databases, and integrations — and
+  making sure they all hold together at scale.
 
-   
+  ---
 
+  ### Currently exploring
 
+  **AI Agents** — not the demo kind. Building toward production-grade agentic
+  workflows: RAG, multi-agent
+  orchestration, context engineering. Figuring out where the hype ends and the
+  hard problems begin.
 
-<!---
-rashmijayasekara/rashmijayasekara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  **DevOps** — moving past `docker-compose up`. Real pipelines, rollbacks,
+  backup procedures, Kubernetes.
+  Turning how-we-do-it into something writable-down.
 
+  ---
 
+  <p align="center">
+    <a href="https://lk.linkedin.com/in/rashmi-ja">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=lin
+  kedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="mailto:jayasekara7899@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&
+  logoColor=white"/>                                                            
+    </a>
+  </p>                                                                          
+                  
+  ---
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rashmijayaseka
+  ra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"      
+  height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ras
+  hmijayasekara&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  </p>
