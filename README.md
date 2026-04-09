@@ -36,7 +36,7 @@ Four things I'm deliberately getting uncomfortable with this year:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#046e657d6577616f657665333c3d3d446369656d682a676b69">
+  <a href="mailto:jayasekara7899@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -45,4 +45,5 @@ Four things I'm deliberately getting uncomfortable with this year:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rashmijayasekara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayasekara&layout=compact&theme=to
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmijayasekara&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
