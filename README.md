@@ -4,7 +4,7 @@
     Full-stack engineer who likes systems that scale and problems that don't
   have obvious answers.
     <br/>
-    Based in Sri Lanka 🇱🇰 · 3.5+ years in production
+    Based in Sri Lanka 🇱🇰 · 3.5 years turning requirements into reality
   </p>
 
   ---
