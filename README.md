@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-Stack Software Engineer who likes systems that scale and problems that don't have obvious answers.<br/>
-  Based in Sri Lanka 🇱🇰 · 4 years turning requirements into reality
+  Based in Sri Lanka 🇱🇰 · 3.5 years turning requirements into reality
 </p>
 
 ---
