@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,java,kotlin,spring,docker,prisma,py&perrow=9" />
 </p>
 
-Backend is where I live. Designing APIs, structuring monorepos, wiring up auth and Stripe — then making sure none of it falls over in production. The stuff users never see but always notice when it breaks.
+Backend is where I live. Designing APIs, structuring monorepos, wiring up auth and Stripe, then making sure none of it falls over in production. The stuff users never see but always notice when it breaks.
 
 ---
 
@@ -21,13 +21,13 @@ Backend is where I live. Designing APIs, structuring monorepos, wiring up auth a
 
 Four things I'm deliberately getting uncomfortable with:
 
-**Shipping infrastructure** — real pipelines, rollbacks, backup procedures, Kubernetes. Moving from "it works on my machine" to "it works, full stop."
+**Shipping infrastructure** real pipelines, rollbacks, backup procedures, Kubernetes. Moving from "it works on my machine" to "it works, full stop."
 
-**AI that earns its place** — RAG, agents, context engineering. Not the tutorial kind — wiring it into something real. Figuring out where the hype ends and the hard problems begin.
+**AI that earns its place** RAG, agents, context engineering. Not the tutorial kind, wiring it into something real. Figuring out where the hype ends and the hard problems begin.
 
-**Depth over breadth** — digging into the internals of what I already use, not just using it. The frameworks, the runtimes, the latest changes.
+**Depth over breadth** digging into the internals of what I already use, not just using it. The frameworks, the runtimes, the latest changes.
 
-**Automation testing** — picking it up properly, so confidence in a deploy isn't just vibes.
+**Automation testing** picking it up properly, so confidence in a deploy isn't just vibes.
 
 ---
 
