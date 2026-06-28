@@ -1,7 +1,7 @@
 <h1 align="center">Rashmi Jayasekara</h1>
 
 <p align="center">
-  Full Stack Engineer who likes systems that scale and problems that don't have obvious answers.<br/>
+  Full-Stack Software Engineer who likes systems that scale and problems that don't have obvious answers.<br/>
   Based in Sri Lanka 🇱🇰 · 3.5 years turning requirements into reality
 </p>
 
