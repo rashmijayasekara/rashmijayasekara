@@ -19,7 +19,7 @@ Backend is where I live. Designing APIs, structuring monorepos, wiring up auth a
 
 ### Currently getting uncomfortable with
 
-Four things I'm deliberately getting uncomfortable with this year:
+Four things I'm deliberately getting uncomfortable with:
 
 **Shipping infrastructure** — real pipelines, rollbacks, backup procedures, Kubernetes. Moving from "it works on my machine" to "it works, full stop."
 
