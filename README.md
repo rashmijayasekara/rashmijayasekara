@@ -1,4 +1,4 @@
-<h1 align="center">Rashmi Jayasekara</h1>
+<!-- <h1 align="center">Rashmi Jayasekara</h1>
 
 <p align="center">
   Full-Stack Software Engineer who likes systems that scale and problems that don't have obvious answers.<br/>
@@ -41,4 +41,4 @@ Things I'm deliberately getting uncomfortable with:
   </a>
 </p>
 
-
+ -->
